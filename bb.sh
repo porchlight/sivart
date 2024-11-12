@@ -92,13 +92,13 @@ global_variables() {
     # personalized header and footer (only if you know what you're doing)
     # DO NOT name them .header.html, .footer.html or they will be overwritten
     # leave blank to generate them, recommended
-    header_file=""
+    header_file=".header.template"
     footer_file=""
     # extra content to add just after we open the <body> tag
     # and before the actual blog content
-    body_begin_file=""
+    body_begin_file=".beforebody"
     # extra content to add just before we close </body>
-    body_end_file=""
+    body_end_file=".afterbody"
     # extra content to ONLY on the index page AFTER `body_begin_file` contents
     # and before the actual content
     body_begin_file_index=""
