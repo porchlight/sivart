@@ -27,7 +27,7 @@ global_variables() {
     global_url=""
 
     # Your name
-    global_author="sivart"
+    global_author=""
     # You can use twitter or facebook or anything for global_author_url
     global_author_url=""
     # Your email
