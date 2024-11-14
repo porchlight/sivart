@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>sivart</title><link>/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 12 Nov 2024 10:58:40 -0500</lastBuildDate>
-<pubDate>Tue, 12 Nov 2024 10:58:40 -0500</pubDate>
+<lastBuildDate>Thu, 14 Nov 2024 11:44:16 -0500</lastBuildDate>
+<pubDate>Thu, 14 Nov 2024 11:44:16 -0500</pubDate>
 <atom:link href="/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+</title><description><![CDATA[
+
+<p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1956078651&color=%2307cc2f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bitbird" title="bitbird" target="_blank" style="color: #cccccc; text-decoration: none;">bitbird</a> · <a href="https://soundcloud.com/bitbird/raar-lespoir-de-chaque-voyage" title="Raar - L&#x27;Espoir De Chaque Voyage" target="_blank" style="color: #cccccc; text-decoration: none;">Raar - L&#x27;Espoir De Chaque Voyage</a></div>/p>
+
+<p>Tags: <a href='tag_electronic.html'>electronic</a>, <a href='tag_tech.html'>tech</a>, <a href='tag_bounce.html'>bounce</a></p>
+<!-- text end -->
+]]></description><link>/lespoir-de-chaque-voyage.html</link>
+<guid>/./lespoir-de-chaque-voyage.html</guid>
+<dc:creator>sivart</dc:creator>
+<pubDate>Thu, 14 Nov 2024 11:44:14 -0500</pubDate></item>
+<item><title>
+</title><description><![CDATA[
+
+<p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2076167652/size=small/bgcol=333333/linkcol=ffffff/artwork=none/transparent=true/" seamless><a href="https://feral-kid-records.bandcamp.com/album/yellow-datsun-car">Yellow Datsun Car by Richard Hamilton</a></iframe></p>
+<p>Tags: <a href='tag_groovy.html'>groovy</a></p>
+
+<!-- text end -->
+]]></description><link>/yellow-datsun-car.html</link>
+<guid>/./yellow-datsun-car.html</guid>
+<dc:creator>sivart</dc:creator>
+<pubDate>Tue, 12 Nov 2024 14:13:40 -0500</pubDate></item>
 <item><title>
 </title><description><![CDATA[
 
@@ -16,16 +38,4 @@
 <guid>/./living-velvet.html</guid>
 <dc:creator>sivart</dc:creator>
 <pubDate>Tue, 12 Nov 2024 10:58:38 -0500</pubDate></item>
-<item><title>
-</title><description><![CDATA[
-
-<p><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2076167652/size=small/bgcol=333333/linkcol=ffffff/artwork=none/transparent=true/" seamless><a href="https://feral-kid-records.bandcamp.com/album/yellow-datsun-car">Yellow Datsun Car by Richard Hamilton</a></iframe></p>
-
-<p>Tags: <a href='tag_groovy.html'>groovy</a></p>
-
-<!-- text end -->
-]]></description><link>/yellow-datsun-car.html</link>
-<guid>/./yellow-datsun-car.html</guid>
-<dc:creator>sivart</dc:creator>
-<pubDate>Fri, 08 Nov 2024 14:56:02 -0500</pubDate></item>
 </channel></rss>
